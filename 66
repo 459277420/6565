@@ -1,0 +1,72 @@
+<script>
+	disp_prompt();
+	function disp_prompt(){				
+		alert("母亲节快乐");		
+	}
+</script>
+<script>
+	disp_prompt();
+	function disp_prompt(){				
+		alert("这一年辛苦了");		
+	}
+</script>
+<script>
+	disp_prompt();
+	function disp_prompt(){				
+		alert("希望您能在照顾好妹妹的同时");		
+	}
+</script>
+<script>
+	disp_prompt();
+	function disp_prompt(){				
+		alert("身体健康");		
+	}
+</script>
+<script>
+	disp_prompt();
+	function disp_prompt(){				
+		alert("一年开开心心");		
+	}
+</script>
+<script>
+	disp_prompt();
+	function disp_prompt(){				
+		alert("一生快快乐乐");		
+	}
+</script>
+<script>
+	disp_prompt();
+	function disp_prompt(){				
+		alert("一世平平安安");		
+	}
+</script>
+<script>
+	disp_prompt();
+	function disp_prompt(){				
+		alert("天天精神翻倍");		
+	}
+</script>
+<script>
+	disp_prompt();
+	function disp_prompt(){				
+		alert("月月喜气洋洋");		
+	}
+</script>
+<script>
+	disp_prompt();
+	function disp_prompt(){				
+		alert("年年财源广进");		
+	}
+</script>
+<script>
+	disp_prompt();
+	function disp_prompt(){				
+		alert("最后");		
+	}
+</script>
+<script>
+	disp_prompt();
+	function disp_prompt(){				
+		alert("让我爸多给你做点好吃的");		
+	}
+</script>
